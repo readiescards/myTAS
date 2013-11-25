@@ -2,10 +2,10 @@
 <widget id="com.nsolve.myTAS" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>MyTAS</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        MyTAS app for use with nCall based TAS.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author href="http://www.nsolve.com" email="support@nsolve.com">
+        nSolve Team
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
